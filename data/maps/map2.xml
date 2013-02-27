@@ -1,0 +1,20 @@
+<map width="600" height="400">
+<title>La conquista del Satelite</title>
+<target type="conquest" dst="Lunia">
+    Tu misión es conquistar el satélite del planeta actual.
+    
+    Tus unidades son de color verde. En cada planeta puedes ver un número
+    que indica el número de unidades disponibles.
+
+    Selecciona un planeta con el botón derecho, y una vez esté
+    seleccionado ataca a otro clickando sobre él con el botón
+    izquierdo.
+
+    El porcentaje de ataque se puede variar con las teclas w, s, o con
+    la rueda del ratón.
+
+    Buena suerte.
+</target>
+<planet x="100" y="100" size="100" habitado="humanos" name="Terra"/>
+<planet x="400" y="300" size="50" habitado="None" name ="Lunia"/>
+</map>

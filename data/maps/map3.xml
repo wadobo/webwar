@@ -1,0 +1,22 @@
+<map width="600" height="600">
+<title>Derrota de los Corvus</title>
+<target type="defeat" dst="IA1">
+    Estamos sufriendo un ataque directo por parte de la civilización
+    Corvus. Son despiadados y harán lo que sea por conseguir nuestros
+    planetas.
+
+    Sin embargo somos más numerosos y tenemos ventaja.
+
+    Acaba con todas las unidades del enemigo Corvus.
+    
+    Sus planetas natales son:
+
+        Corvus 1
+        Corvus 2
+</target>
+<planet x="100" y="100" size="100" habitado="IA1" name="Corvus 1"/>
+<planet x="100" y="500" size="100" habitado="humanos" name="Terra"/>
+<planet x="500" y="100" size="100" habitado="IA1" name="Corvus 2"/>
+<planet x="500" y="500" size="100" habitado="humanos" name="Navae"/>
+<planet x="300" y="300" size="100" habitado="humanos" name="Caelum"/>
+</map>

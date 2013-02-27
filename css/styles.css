@@ -1,0 +1,40 @@
+html,body
+{
+    height: 100%;
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    overflow: hidden;
+    background: black url('../data/svgs/background.svg') right bottom no-repeat;
+    text-align: center;
+}
+
+canvas {
+    background-color: black;
+    display: none;
+}
+
+#menu {
+    display: block;
+    width: 200px;
+    margin: 5px auto;
+}
+
+#menu button {
+    width: 180px;
+    font-size: 30px;
+    font-weight: bold;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 50px;
+    border: 2px solid white;
+    color: black;
+    background-color: green;
+}
+
+#menu button:hover {
+    color: black;
+    background-color: #00ff00;
+}

@@ -1,0 +1,51 @@
+<mission title="La Reconquista">
+    <intro>
+        Año 3500...
+        
+        El ser humano salió de su olvidado planeta natal, para
+        conquistar el universo. Durante muchos años conquistó cada vez
+        más y más planetas, sin encontrar vida inteligente en ninguno
+        de ellos.
+
+        De pronto, inesperadamente, aparecieron varias civilizaciones
+        alienigenas, que estaban sumidas en una gerra comenzada hace
+        eones, y de la cual los humanos no habian oido hablar.
+
+        Sin quererlo la especie humana se ve envuelta en la mayor
+        guerra intergalactica, y es expulsada de sus planetas, de
+        forma cruel.
+
+        Tras varios años en el destierro, la civilización humana ha
+        conseguido desarrollar la tecnología suficiente para hacer
+        frente a otras civilizaciones, y recuperar lo que un día fue
+        suyo.
+
+        Eres el Jefe de las fuerzas Humanas, y tu misión es recuperar
+        lo que un día fue nuestro. Dirige las unidades lo mejor que
+        puedas.
+
+    </intro>
+    <ending>
+        Tras la gran batalla final, los Humanos han conseguido
+        derrotar a las fuerzas invasoras, y han conquistado los
+        planetas que unos pocos años atrás le fueron arrebatados.
+
+        Sin embargo la gran guerra continua, pero la raza Humana ha
+        demostrado estar preparada para defenderse, a partir de ahora
+        las demás civilizaciones deberán tenernos en cuenta, como un
+        poderoso enemigo.
+    </ending>
+    <lost>
+        Tu hastucia no ha sido suficiente para manejar la vida de los
+        numerosos hombres que han luchado bajo tu mando. Has perdido
+        una batalla primordial, y ahora la especie Humana se verá
+        obligada al destierro, y quizás a la extinción.
+
+        Has fracasado como estratega. FIN DEL JUEGO...
+    </lost>
+    <map value="map2"/>
+    <map value="map3"/>
+    <map value="map1"/>
+    <map value="map4"/>
+    <map value="map5"/>
+</mission>

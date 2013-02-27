@@ -1,0 +1,44 @@
+<map width="1000" height="1000">
+<title>La gran batalla</title>
+<target type="master of universe">
+Tras las grandes victorias de la raza humana, el resto de
+civilizaciones ha decidido aliarse para contrarrestar el poder nuestra
+civilización.
+
+En esta batalla tendrás que luchas contra todos a la vez, y en esta
+ocasión, todos lucharán conjuntamente contra tí.
+
+Buena suerte.
+</target>
+<planet x="102" y="920" size="200" habitado="humanos" name="Ethelreda"/>
+<planet x="911" y="830" size="150" habitado="IA2" name="Judia"/>
+<planet x="221" y="796" size="100" habitado="humanos" name="Hierimia"/>
+<planet x="128" y="715" size="100" habitado="humanos" name="Ishachus"/>
+<planet x="255" y="924" size="100" habitado="humanos" name="Xpianus"/>
+<planet x="228" y="668" size="100" habitado="humanos" name="Richardus"/>
+<planet x="321" y="816" size="100" habitado="humanos" name="Phineas"/>
+<planet x="92" y="330" size="200" habitado="IA1" name="Guglielmus"/>
+<planet x="220" y="191" size="200" habitado="IA1" name="Xtianus"/>
+<planet x="220" y="345" size="159" habitado="IA1" name="Eustachius"/>
+<planet x="342" y="277" size="100" habitado="IA1" name="Jno."/>
+<planet x="84" y="174" size="100" habitado="IA1" name="Hierimia(s)"/>
+<planet x="931" y="103" size="150" habitado="IA3" name="Sylvanus"/>
+<planet x="775" y="143" size="50" habitado="IA3" name="Wilmota"/>
+<planet x="566" y="534" size="301" habitado="None" name="Dionysia"/>
+<planet x="499" y="702" size="100" habitado="IA2" name="Jeremia"/>
+<planet x="409" y="566" size="100" habitado="IA2" name="Patricus"/>
+<planet x="718" y="569" size="100" habitado="IA2" name="Maria"/>
+<planet x="641" y="700" size="100" habitado="IA2" name="Radulphus"/>
+<planet x="527" y="208" size="150" habitado="IA2" name="Honoria"/>
+<planet x="887" y="244" size="100" habitado="IA3" name="Juditta"/>
+<planet x="768" y="280" size="100" habitado="IA3" name="Dionysius"/>
+<planet x="701" y="59" size="78" habitado="IA3" name="Gulielmus"/>
+<planet x="663" y="178" size="57" habitado="IA3" name="Xpofer"/>
+<planet x="940" y="421" size="150" habitado="IA3" name="Andreas"/>
+<planet x="831" y="387" size="63" habitado="IA3" name="Guillemota"/>
+<planet x="825" y="51" size="100" habitado="IA3" name="Tomas"/>
+<allied player1="IA1" player2="IA2"/>
+<allied player1="IA1" player2="IA3"/>
+<allied player1="IA2" player2="IA3"/>
+<allied player1="IA2" player2="IA3"/>
+</map>

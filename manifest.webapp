@@ -1,0 +1,14 @@
+{
+    "name":"War!",
+    "developer": {
+        "name":"danigm <danigm@wadobo.com>",
+        "url":"http://wadobo.com"
+    },
+    "description":"Space strategy war game",
+    "launch_path":"/app.html",
+    "icons":{
+        "32":"/data/img/icon32.png",
+        "64":"/data/img/icon64.png",
+        "128":"/data/img/icon128.png"
+    }
+}

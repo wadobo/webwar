@@ -1,0 +1,24 @@
+<map width="1000" height="1000">
+<title>Batalla por el universo</title>
+<target type="master of universe">
+    La guerra de civilizaciones ha comenzado. Solo puede quedar uno.
+
+    Esto es un enfrentamiento directo, de todos contra todos. Solo una
+    civilización será la que salga victoriosa en esta batalla.
+
+    Tu objetivo en esta mision es acabar con todos tus oponentes y
+    conquistar todos los planetas.
+</target>
+<planet x="729" y="345" size="380" habitado="IA4" name="Dionysia"/>
+<planet x="311" y="625" size="100" habitado="humanos" name="Hierimia"/>
+<planet x="239" y="560" size="100" habitado="humanos" name="Ishachus"/>
+<planet x="366" y="711" size="100" habitado="humanos" name="Xpianus"/>
+<planet x="102" y="920" size="200" habitado="humanos" name="Ethelreda"/>
+<planet x="601" y="161" size="150" habitado="IA3" name="Sylvanus"/>
+<planet x="594" y="340" size="50" habitado="IA3" name="Wilmota"/>
+<planet x="618" y="527" size="150" habitado="IA3" name="Andreas"/>
+<planet x="79" y="91" size="200" habitado="IA1" name="Xtianus"/>
+<planet x="80" y="233" size="200" habitado="IA1" name="Guglielmus"/>
+<planet x="911" y="830" size="150" habitado="IA2" name="Judia"/>
+<planet x="787" y="784" size="150" habitado="IA2" name="Honoria"/>
+</map>

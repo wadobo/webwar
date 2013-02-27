@@ -1,0 +1,28 @@
+<map width="1000" height="1000">
+<title>La conquista de Venus</title>
+<target type="level" dst="Venus" level="50">
+    Hay muchas civilizaciones luchando en esta batalla, el objetivo es
+    controlar un planeta estratégico, tanto por su posición, como por
+    su riqueza en materias primas.
+
+    La conquista de ese planeta nos daría ventaja frente a nuestros
+    enemigos.
+
+    Tu mision es conquistar el planeta Venus, y mantener un nivel de
+    unidades mayor a 50, para poder defenderlo.
+    
+    Sus coordenadas son:
+        x=900 y=500
+    
+    Buena suerte.
+</target>
+<planet x="100" y="100" size="200" habitado="humanos" name="Apus"/>
+<planet x="700" y="100" size="50" habitado="None" name="Cetus"/>
+<planet x="700" y="500" size="50" habitado="IA1" name="Hydra"/>
+<planet x="100" y="500" size="50" habitado="None" name="Ophin"/>
+<planet x="400" y="300" size="200" habitado="IA3" name="Vulpecul"/>
+<planet x="800" y="300" size="200" habitado="IA2" name="Auriga"/>
+<planet x="900" y="500" size="100" habitado="None" name="Venus"/>
+<planet x="900" y="900" size="200" habitado="IA1" name="Bootem"/>
+<planet x="300" y="900" size="100" habitado="humanos" name="Terra"/>
+</map>
